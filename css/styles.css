@@ -1,0 +1,19 @@
+li{
+  font-size: 30px;
+
+}
+
+h1{
+  font-family: serif;
+  font-size: 30px;
+
+}
+
+.clickable{
+  cursor: pointer;
+}
+
+.clickable:hover{
+  text-decoration:underline;
+  text: black;
+}
