@@ -1,6 +1,6 @@
 li{
   font-size: 30px;
-
+  cursor: pointer;
 }
 
 h1{
@@ -9,16 +9,15 @@ h1{
 
 }
 
-.clickable{
-  cursor: pointer;
+li:hover{
+  text-decoration: underline;
 }
 
-.clickable:hover{
-  text-decoration:underline;
-  text: black;
-}
 
 .jumbotron{
   background-color: #99A08D;
 
+}
+p{
+  display: none;
 }
